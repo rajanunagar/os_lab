@@ -1,0 +1,2 @@
+1. man dup 2
+2. man exec

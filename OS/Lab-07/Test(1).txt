@@ -1,0 +1,2 @@
+Hello From Console
+Hello by cout
